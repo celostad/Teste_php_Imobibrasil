@@ -6,6 +6,7 @@
 	- PHP 7.4.1
 	- PhpMyadmin  5.0.1
 	- Apache/2.4.38 (Debian)
+	- Docker Desktop 4.9.1
 
 ## Instalação com docker:
 
